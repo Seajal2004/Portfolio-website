@@ -1,26 +1,25 @@
 export const experiences = [
   {
     id: 1,
-    title: "Software Engineer Intern",
-    company: "CodeYogi Innovations Pvt. Ltd.",
-    location: "Dehradun, India",
-    date: "Jan 2025 - Feb 2025",
+    title: "Freelance Web Developer",
+    company: "Fiverr",
+    location: "Remote",
+    date: "2023 - 2024",
     description: [
-      "Collaborated remotely on software development projects, adhering to company policies and maintaining confidentiality.",
-      "Enhanced software engineering skills and teamwork in a remote environment.",
-      "Worked on backend development and API integration."
+      "Created web designs using HTML, CSS, and JavaScript for various clients.",
+      "Developed static working websites, business web pages, and landing pages.",
+      "Implemented project showcases, 'About Me' sections, and responsive contact forms, enhancing front-end web development skills."
     ]
   },
   {
     id: 2,
-    title: "Full Stack Training",
-    company: "Devslane",
-    location: "Remote",
-    date: "Jun 2024 - Sep 2024",
+    title: "Placement Committee Member",
+    company: "Bennett University",
+    location: "Greater Noida, Uttar Pradesh",
+    date: "Aug 2022 - Present",
     description: [
-      "Successfully completed Full Stack Software Engineering Training.",
-      "Gained hands-on experience in web and software development.",
-      "Demonstrated technical proficiency and teamwork throughout the program."
+      "Worked actively in the Career Services Cell ensuring smooth operations for recruitment drives, placement training, and other student career services.",
+      "Coordinated with various stakeholders to facilitate successful placement activities."
     ]
   }
 ];
