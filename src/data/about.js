@@ -22,7 +22,7 @@ export const about = {
     "B.Tech student specializing in AI and ML with strong coding skills, database expertise, and experience in front-end and back-end development. Seeking internships to enhance technical and professional skills.",
   skills: [
     "HTML", "CSS", "JavaScript", "Python", "C++", "TensorFlow", "Scikit-learn",
-    "NumPy", "Pandas", "Matplotlib", "SQL", "Deep Learning", "Data Analysis"
+    "NumPy", "Pandas", "Matplotlib", "SQL", "Deep Learning", "Data Analysis","Github"
   ],
   strengths: ["Teamwork", "Problem-solving", "Positive Attitude"],
   awards: [

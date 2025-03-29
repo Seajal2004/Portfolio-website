@@ -67,7 +67,7 @@ const About = () => {
 
           {/* Awards Section */}
           <div className="mt-8">
-            <h3 className="text-2xl font-semibold text-gray-800 border-b pb-2 mb-4">Awards</h3>
+            <h3 className="text-2xl font-semibold text-gray-800 border-b pb-2 mb-4">Achievements</h3>
             <ul className="list-disc list-inside text-gray-700">
               {about.awards.map((award, index) => (
                 <li key={index} className="mb-2">
@@ -98,7 +98,7 @@ const About = () => {
             </Link>
             <a
               href={Seajal_Gupta}
-              download="Naman_Singla.pdf"
+              download="Seajal_gupta.pdf"
               className="bg-green-600 text-white px-4 py-2 rounded-lg shadow-md hover:bg-green-700 text-center"
             >
               Download Resume
